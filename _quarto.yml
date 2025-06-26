@@ -1,0 +1,4 @@
+project: 
+  type: website
+  render: 
+    - capitulo12.qmd
